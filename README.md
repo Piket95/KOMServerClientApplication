@@ -1,1 +1,1 @@
-# KOMServerClientApplication
+# Studiumsaufgabe - Fach Kommunikationsnetze
